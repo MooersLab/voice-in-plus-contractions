@@ -33,5 +33,5 @@ Multi-line text fragments are possible via the newline command (`\n`).
 5. Click the `add commands` button below the text area. The new commands are available for use.
 
 ## Related sites
-- [Voice In in the Chrome Store](https://chromewebstore.google.com/detail/voice-in-speech-to-text-d)
+- [Search for Voice In in the Chrome Store](https://chromewebstore.google.com/)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
