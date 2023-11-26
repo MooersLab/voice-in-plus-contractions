@@ -1,1 +1,4 @@
-# voice-in-plus-contractions: Expand English contractions automatically when using Voice In Plus for dictation.
+# voice-in-plus-contractions: 
+
+## Purpose
+Expand English contractions automatically when using Voice In Plus for dictation.
