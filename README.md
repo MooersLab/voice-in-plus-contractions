@@ -1,7 +1,8 @@
 # voice-in-plus-contractions: 
 
 ## Purpose
-Expand English contractions automatically when using Voice In Plus for dictation.
+Expand English contractions automatically when using Voice In Plus for dictation. 
+This supports conversion of informal speach into formal prose.
 
 ## Voice In vs Voice In Plus
 Voice In is a free plugin for Google Chrome that supports dication in the text areas of web pages.
@@ -16,7 +17,7 @@ It adds support for custom commands.
 
 ## Library contents
 
--
+- 94 common English contrations mapped to their expansions.
 
 ## Format of the library
 The file format is comma separated values (csv).
