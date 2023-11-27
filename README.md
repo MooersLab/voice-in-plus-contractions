@@ -4,6 +4,10 @@
 Expand English contractions automatically when using Voice In Plus for dictation. 
 This supports conversion of informal speach into formal prose.
 
+## Disclaimer
+This is a programming tool, not an educational tool.
+
+
 ## Voice In vs Voice In Plus
 Voice In is a free plugin for Google Chrome that supports dication in the text areas of web pages.
 This is where I draft most of my writing these days before it paste it into a final document.
