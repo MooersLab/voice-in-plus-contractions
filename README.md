@@ -45,8 +45,12 @@ Multi-line text fragments are possible via the newline command (`\n`).
 - [Voice comoputing on MooersLab landing page](https://github.com/MooersLab/#voice-computing)
 
 ## Update History
-- 2022-01-16: Initial draft, version 0.1.
-- 2024-04-05: Expanded to 186 contractions, version 0.2.
+
+|Version      | Changes                             | Date            |
+|:-----------:|:-----------------------------------:|:---------------:|
+| Version 0.1 | First posted 96 contractions.       | 2024 January 16 |
+| Version 0.2 | Expanded to 186 contractions.      | 2024 April 5    |
+
 
 ## Funding sources
 - NIH: R01 CA242845
