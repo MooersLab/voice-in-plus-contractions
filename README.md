@@ -42,14 +42,14 @@ Multi-line text fragments are possible via the newline command (`\n`).
 ## Related sites
 - [Search for Voice In in the Chrome Store](https://chromewebstore.google.com/)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
-- [Voice comoputing on MooersLab landing page](https://github.com/MooersLab/#voice-computing)
+- [Voice computing on MooersLab landing page](https://github.com/MooersLab/#voice-computing)
 
 ## Update History
 
 |Version      | Changes                             | Date            |
 |:-----------:|:-----------------------------------:|:---------------:|
 | Version 0.1 | First posted 96 contractions.       | 2024 January 16 |
-| Version 0.2 | Expanded to 186 contractions.      | 2024 April 5    |
+| Version 0.2 | Expanded to 186 contractions.       | 2024 April 5    |
 
 
 ## Funding sources
