@@ -1,10 +1,10 @@
-![Version](https://img.shields.io/static/v1?label=voice-in-plus-contractions&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=voice-in-plus-contractions&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# voice-in-plus-contractions: 
+# voice-in-plus-contractions:
 
 ## Purpose
-Expand English contractions automatically when using Voice In Plus for dictation. 
+Expand English contractions automatically when using Voice In Plus for dictation.
 This supports the conversion of informal speech into formal prose.
 
 ## Disclaimer
@@ -24,7 +24,7 @@ It adds support for custom commands.
 
 ## Library contents
 
-- 94 common English contractions mapped to their expansions.
+- 186 common and not so common English contractions mapped to their expansions.
 
 ## Format of the library
 The file format is comma-separated values (csv).
@@ -34,7 +34,7 @@ Multi-line text fragments are possible via the newline command (`\n`).
 
 ## Installation
 1. Right-click on the plugin icon and select `Options`.
-2. This act opens the Voice-in options page. 
+2. This act opens the Voice-in options page.
 3. Click on `bulk add` button. A simple window with a plain text area will open.
 4. Open the csv file in a text editor like VS Code. Select all, copy, and paste into the text area of the bulk add window.
 5. Click the `add commands` button below the text area. The new commands are available for use.
@@ -42,3 +42,16 @@ Multi-line text fragments are possible via the newline command (`\n`).
 ## Related sites
 - [Search for Voice In in the Chrome Store](https://chromewebstore.google.com/)
 - [Full library of commands for Voice In Plus](https://github.com/MooersLab/voice-in-plus-commands)
+- [Voice comoputing on MooersLab landing page](https://github.com/MooersLab/#voice-computing)
+
+## Update History
+- 2022-01-16: Initial draft, version 0.1.
+- 2024-04-05: Expanded to 186 contractions, version 0.2.
+
+## Funding sources
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH: P20 GM103640 and P30 GM145423 (PI: A. West)
+
+
