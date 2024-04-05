@@ -1,7 +1,7 @@
 ![Version](https://img.shields.io/static/v1?label=voice-in-plus-contractions&message=0.2&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-# voice-in-plus-contractions:
+# Expansions of English contractions for Voice-In Plus
 
 ## Purpose
 Expand English contractions automatically when using Voice In Plus for dictation.
